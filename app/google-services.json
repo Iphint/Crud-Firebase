@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936554885134",
+    "project_id": "daftar-215a7",
+    "storage_bucket": "daftar-215a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936554885134:android:97ab0babbaa66df0574c5f",
+        "android_client_info": {
+          "package_name": "com.arifin.daftar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936554885134-de0vmpqmrhk9pik5n02frqtgn21q381q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFyZbIBU0kwv039SAWwzFNOCOXlRBlJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936554885134-de0vmpqmrhk9pik5n02frqtgn21q381q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
